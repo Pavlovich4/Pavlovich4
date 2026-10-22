@@ -32,13 +32,13 @@ I'm **Pavlove BIOKOU**, a full-stack web developer. I design, build and ship web
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,nextjs,tailwind" alt="Frontend technologies" />
 
 **Backend and databases**<br/>
-<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,postgres" alt="Backend technologies" />
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,postgres,mysql" alt="Backend technologies" />
 <br/>
 <img src="https://img.shields.io/badge/Livewire-FB70A9?style=for-the-badge" alt="Laravel Livewire" />
 <img src="https://img.shields.io/badge/Inertia.js-9553E9?style=for-the-badge" alt="Inertia.js" />
 
 **Tools and DevOps**<br/>
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,vercel,figma,vscode,phpstorm,webstorm,postman,linux" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,figma,vscode,phpstorm,webstorm,postman,linux" alt="Tools" />
 <br/>
 <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claudecode&logoColor=white" alt="Claude Code" />
 <img src="https://img.shields.io/badge/Codex-111827?style=for-the-badge" alt="Codex" />
